@@ -1,1 +1,1 @@
-require('./index')()
+require('./index')(null, {url: 'https://localhost/'})
